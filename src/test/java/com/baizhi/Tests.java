@@ -14,6 +14,7 @@ public class Tests {
         System.out.println("第一次");
         System.out.println("haha");
         System.out.println("bbbb");
+          System.out.println("6666");
     }
 
 }
