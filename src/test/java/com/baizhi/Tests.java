@@ -15,6 +15,10 @@ public class Tests {
         System.out.println("haha");
         System.out.println("bbbb");
           System.out.println("6666");
+        System.out.println("888");
+           int a =6;
+           int b =8;
+         System.out.println("888");
     }
 
 }
