@@ -16,9 +16,13 @@ public class Tests {
         System.out.println("bbbb");
           System.out.println("6666");
         System.out.println("666");
+        System.out.println("888");
         int a = 9;
         int b = 8;
+        int a1 =9;
+        int b1 =8;
         System.out.println("666");
+        System.out.println("888");
     }
 
 }
