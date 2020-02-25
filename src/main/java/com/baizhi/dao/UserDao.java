@@ -6,4 +6,6 @@ import java.util.List;
 
 public interface UserDao {
     List<User> querAll();
+
+    User querById(String id);
 }
